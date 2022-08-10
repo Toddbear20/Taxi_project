@@ -1,0 +1,204 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="keywords" content="사회복지시설정보시스템, 사회복지시설, 정보시스템, 보건복지부, 장기요양기관, 재가장기요양기관, 사회복지법인" />
+<meta name="description" content="여기는 보건복지부 사회복지시설정보시스템 사이트입니다." />
+<head>
+
+<title>조회리스트</title>
+	
+<style type="text/css">
+	.basic_style {
+		border:1px solid #e7e7e7;
+	}
+	
+	.basic_style th, .basic_style td {
+		border-right:1px solid #e7e7e7;
+		border-bottom:1px solid #e7e7e7;
+	}
+	
+	.basic_style th {
+		background:#f7f7f7;
+	}
+	
+	.basic_style td {
+		text-align:center;
+	}
+	
+	.al {
+		text-align:left;
+	}
+	
+	.text {mso-number-format:"@";}
+</style>
+
+</head>
+
+<script>
+	function removeTag(html){
+		return str.replace(/(<([^>]+)>)/gi, "");
+	}
+</script>
+
+<body>
+	<table class="basic_style">
+		<caption>시설명, 시도, 시군구, 시설유형(대), 시설유형(중), 시설유형(소), 연락처에 대한 조회리스트 정보 표 입니다.</caption><!-- 한국웹접근성인증평가원 전문가 상세보고서 평가 수정 - table태그의 내용에 맞는 caption 추가(INDEX_HHG_20211209) -->
+		<tr>
+			<th>시설명</th>
+			<th>시도</th>
+			<th>시군구</th>
+			<th>시설유형(대)</th>
+			<th>시설유형(중)</th>
+			<th>시설유형(소)</th>
+			<th>연락처</th>
+		</tr>
+			
+		
+		
+			<tr>
+				<td>참행복한세상</td>
+				<td>서울특별시</td>
+				<td>강서구</td>
+				<td>장애인</td>
+				<td>장애인직업재활시설</td>
+				<td>장애인보호작업장</td>
+				<td>02-2658-0700</td>
+			</tr>
+		
+		
+			<tr>
+				<td>강서구휴먼희망일터</td>
+				<td>서울특별시</td>
+				<td>강서구</td>
+				<td>장애인</td>
+				<td>장애인직업재활시설</td>
+				<td>장애인보호작업장</td>
+				<td>02-3665-1547</td>
+			</tr>
+		
+		
+			<tr>
+				<td>기쁜우리보호작업장</td>
+				<td>서울특별시</td>
+				<td>강서구</td>
+				<td>장애인</td>
+				<td>장애인직업재활시설</td>
+				<td>장애인보호작업장</td>
+				<td>02-3665-3831</td>
+			</tr>
+		
+		
+			<tr>
+				<td>열림일터</td>
+				<td>서울특별시</td>
+				<td>강서구</td>
+				<td>장애인</td>
+				<td>장애인직업재활시설</td>
+				<td>장애인보호작업장</td>
+				<td>02-2602-3199</td>
+			</tr>
+		
+		
+			<tr>
+				<td>다사랑직업재활시설</td>
+				<td>서울특별시</td>
+				<td>강서구</td>
+				<td>장애인</td>
+				<td>장애인직업재활시설</td>
+				<td>장애인보호작업장</td>
+				<td>07077929300</td>
+			</tr>
+		
+		
+			<tr>
+				<td>강서구희망센터</td>
+				<td>서울특별시</td>
+				<td>강서구</td>
+				<td>장애인</td>
+				<td>장애인직업재활시설</td>
+				<td>장애인보호작업장</td>
+				<td>02-2696-3113</td>
+			</tr>
+		
+		
+			<tr>
+				<td>초록등대장애인보호작업장</td>
+				<td>서울특별시</td>
+				<td>강서구</td>
+				<td>장애인</td>
+				<td>장애인직업재활시설</td>
+				<td>장애인보호작업장</td>
+				<td>02-2603-2683</td>
+			</tr>
+		
+		
+			<tr>
+				<td>강서나누리센터</td>
+				<td>서울특별시</td>
+				<td>강서구</td>
+				<td>장애인</td>
+				<td>장애인직업재활시설</td>
+				<td>장애인보호작업장</td>
+				<td>070-8715-3650</td>
+			</tr>
+		
+		
+			<tr>
+				<td>행복을파는장사꾼</td>
+				<td>서울특별시</td>
+				<td>강서구</td>
+				<td>장애인</td>
+				<td>장애인직업재활시설</td>
+				<td>장애인보호작업장</td>
+				<td>0220651591</td>
+			</tr>
+		
+		
+			<tr>
+				<td>그라나다보호작업센터</td>
+				<td>서울특별시</td>
+				<td>강서구</td>
+				<td>장애인</td>
+				<td>장애인직업재활시설</td>
+				<td>장애인보호작업장</td>
+				<td>02-3661-3402</td>
+			</tr>
+		
+		
+			<tr>
+				<td>구립 강서구 직업재활센터</td>
+				<td>서울특별시</td>
+				<td>강서구</td>
+				<td>장애인</td>
+				<td>장애인직업재활시설</td>
+				<td>장애인보호작업장</td>
+				<td>02-3661-0362</td>
+			</tr>
+		
+			<tr>
+				<td>총계</td>
+				<td colspan='6'; style="text-align:right;">11</td>
+			</tr>
+	</table>
+</body>
+</html>
